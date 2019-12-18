@@ -280,6 +280,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
 - [ ] [Machine Learning & AI Foundations: Value Estimations](https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Essential-Training-Value-Estimations/548594-2.html)
+- [ ] [Google Cloud Specializations](https://www.coursera.org/promo/NEXTExtended?utm_source=googlecloud&utm_medium=institutions&utm_campaign=kaggle_competition_2018)
 - [ ] [Kaggle's Hands-On Data Science Education](https://www.kaggle.com/learn/overview)
 - [ ] [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 - [ ] [Leaning from data](https://work.caltech.edu/telecourse.html)
