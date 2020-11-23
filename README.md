@@ -315,10 +315,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [ ] [Differential Equations [optional]] (https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
     - [ ] [Linear Algebra] (https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
     - [ ] [6. 00 Introduction to Computer Science and Programming] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
-           - [x] [6.0001 Introduction to Computer Science and Programming in Python] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-           - [ ] [6.0002 Introduction to Computational Thinking and Data Science [Problem]] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+    - [x] [6.0001 Introduction to Computer Science and Programming in Python] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+    - [ ] [6.0002 Introduction to Computational Thinking and Data Science [Problem]] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
     - [ ] [6.01 Introduction to Electrical Engineering and Computer Science I] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
-    - [ ] [
+    - [ ] [Probabilistic Systems Analysis and Applied Probability] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+    - [ ] [Mathematics for Computer Science (in open learning library)] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+    - [ ] [MIT edx series in Data Science] (https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 ## Resources
 - [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
