@@ -304,7 +304,16 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 - [x] [Coursera’s Deep Learning](https://www.coursera.org/specializations/deep-learning)
-
+- [] [University of Michigan series in Data Science] (https://online.umich.edu/subject/data-science/)
+    - [x] [Python for every body] (https://www.coursera.org/specializations/python)
+    - [x] [Python 3 Programming] (https://www.coursera.org/specializations/python-3-programming)
+    - [] [Statistics with Python Specialization] (https://www.coursera.org/specializations/statistics-with-python)
+    - [] [Apply data science with Python] (https://www.coursera.org/specializations/data-science-python)
+- [MIT course] (https://ocw.mit.edu/index.htm)
+    - [] [Single Variable Calculus [finish theory]] (https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+    - [] [Multivariable Calculus] (https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+    - [] [Differential Equations [optional]] (https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
+    - [] [Linear Algebra] (https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 ## Resources
 - [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
