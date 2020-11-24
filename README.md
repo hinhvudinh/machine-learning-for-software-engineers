@@ -309,6 +309,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [x] [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming)
     - [ ] [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
     - [ ] [Apply data science with Python](https://www.coursera.org/specializations/data-science-python)
+- [ ] [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [ ] MIT course (https://ocw.mit.edu/index.htm)
     - [ ] [18.01 Single Variable Calculus [finish theory]](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
     - [ ] [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
