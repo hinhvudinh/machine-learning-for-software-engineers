@@ -122,7 +122,7 @@ from public sources and replacing the online course videos over time. I like usi
 
 ## Prerequisite Knowledge
 
-This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
+This short section consists of prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
 - [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
@@ -375,6 +375,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
+- [Machine Learning Online Courses](https://classpert.com/machine-learning)
 
 ## Games
 - [Halite: A.I. Coding Game](https://halite.io/)
@@ -455,7 +456,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
 - [ ] [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
-
+- [ ] [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ## My admired companies
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
