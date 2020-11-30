@@ -304,6 +304,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 - [x] [Coursera’s Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- [ ] [Foundations of Data Science UCB](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)
 - [ ] [University of Michigan series in Data Science](https://online.umich.edu/subject/data-science/)
     - [x] [Python for every body](https://www.coursera.org/specializations/python)
     - [x] [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming)
