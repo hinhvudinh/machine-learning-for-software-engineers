@@ -331,8 +331,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [ ] [6.036 Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
     - [ ] [6.034 Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
     - [ ] [MIT edx series in Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
-- [ ] [Deep Reinforcement Learning CS 285 at UC Berkeley(http://rail.eecs.berkeley.edu/deeprlcourse/)
-- [ ] [EECS 498-007 / 598-005 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
+- [ ] [Deep Reinforcement Learning CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [ ] [UMICH EECS 498-007 / 598-005 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
 - [ ] [Machine Learning - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml?fbclid=IwAR2IDcMfcTeaPMsrEFT4_lOsvqzGdAtEbrbWvxjOfuYjaQKWzd7Nv4IaTXw)
 - [ ] [ai stanford](http://ai.stanford.edu/courses/)
 ## Resources
