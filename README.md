@@ -246,6 +246,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [How Machine Learning Works (MEAP)](https://www.manning.com/books/how-machine-learning-works)
     - [GitHub repository](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
 - [ ] [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai)
+- [ ] [Python for Data Analysis](https://wesmckinney.com/pages/book.html)
+- [ ] ["Probabilistic Machine Learning" - a book series by Kevin Murphy](https://github.com/probml/pml-book)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -329,7 +331,10 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [ ] [6.036 Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
     - [ ] [6.034 Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
     - [ ] [MIT edx series in Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
-    
+- [ ] [Deep Reinforcement Learning CS 285 at UC Berkeley(http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [ ] [EECS 498-007 / 598-005 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
+- [ ] [Machine Learning - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml?fbclid=IwAR2IDcMfcTeaPMsrEFT4_lOsvqzGdAtEbrbWvxjOfuYjaQKWzd7Nv4IaTXw)
+- [ ] [ai stanford](http://ai.stanford.edu/courses/)
 ## Resources
 - [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
@@ -355,7 +360,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
 - [ ] [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 - Machine Learning courses in Universities
-    - [ ] [Stanford](http://ai.stanford.edu/courses/)
+    - [ ] [Stanford](http://ai.stanford.edu/courses/) 
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
     - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
