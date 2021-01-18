@@ -308,7 +308,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [University of Michigan series in Data Science](https://online.umich.edu/subject/data-science/)
     - [x] [Python for every body](https://www.coursera.org/specializations/python)
     - [x] [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming)
-    - [ ] [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
+    - [x] [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
     - [ ] [Apply data science with Python](https://www.coursera.org/specializations/data-science-python)
 - [ ] [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [ ] MIT course (https://ocw.mit.edu/index.htm)
